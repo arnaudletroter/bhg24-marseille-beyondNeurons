@@ -8,7 +8,7 @@ WP2: Analysis of the area under the curve (AUC) of calcium transients under thre
 C1: Baseline (ACSF)
 C2: TTX treatment to block neuronal activity
 C3: TTX combined with a locomotor cocktail
-# WP3: Mapping the spatial distribution (xy positions) of active astrocytes relative to the central canal
+WP3: Mapping the spatial distribution (xy positions) of active astrocytes relative to the central canal
 
 Repository for sharing  resources on timeseries image processing and analysis in calcium imaging
 
